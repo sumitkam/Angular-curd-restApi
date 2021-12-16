@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "name": "sumit ",
+      "email": "sumit@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "franklin",
+      "email": "frank@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "shital",
+      "email": "shital@gmail.com"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
